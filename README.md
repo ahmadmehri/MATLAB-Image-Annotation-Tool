@@ -1,6 +1,11 @@
 # MATLAB-Image-Annotation-Tool
 A comprehensive MATLAB-based interactive image annotation tool that allows users to add polyline drawings and text annotations to images. This standalone application provides an intuitive graphical user interface for marking up images with customizable visual elements.
 
+
+![image](https://github.com/user-attachments/assets/316b3c8a-a5fa-4ef7-bd9b-32ce9f61ecc0)
+
+
+
 **Features**
 
 Interactive GUI: Clean, user-friendly interface with dedicated control panel
